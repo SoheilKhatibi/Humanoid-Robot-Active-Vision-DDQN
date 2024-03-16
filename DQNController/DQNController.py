@@ -82,7 +82,7 @@ def main():
                 policy_kwargs=None,
                 full_tensorboard_log=True,
                 seed=None)
-        model.learn(total_timesteps=1000000)
+        model.learn(total_timesteps=30000)
         model.save("deepq_soccer")
     else:
         Player = Agent()
