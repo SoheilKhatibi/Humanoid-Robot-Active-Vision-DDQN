@@ -22,6 +22,7 @@
 <!--   <a href="https://github.com/SoheilKhatibi/Humanoid-Robot-Active-Vision-DDQN">
     <img src="worlds/Rules_2019.png" alt="Preview" width="1051" height="500">
   </a> -->
+  [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/kOX_vY6ir5M&ab_channel=MRLHSL/0.jpg)](https://www.youtube.com/watch?v=kOX_vY6ir5M&ab_channel=MRLHSL)
   <h3 align="center">Humanoid-Robot-Active-Vision-DDQN</h3>
 </div>
 
