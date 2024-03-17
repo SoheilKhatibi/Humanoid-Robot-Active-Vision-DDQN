@@ -16,13 +16,14 @@
 <!--[![MIT License][license-shield]][license-url] -->
 <!-- [![LinkedIn][linkedin-shield]][linkedin-url] -->
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/kOX_vY6ir5M/0.jpg)](https://www.youtube.com/watch?v=kOX_vY6ir5M)
+
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
 <!--   <a href="https://github.com/SoheilKhatibi/Humanoid-Robot-Active-Vision-DDQN">
     <img src="worlds/Rules_2019.png" alt="Preview" width="1051" height="500">
   </a> -->
-  [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/kOX_vY6ir5M/0.jpg)](https://www.youtube.com/watch?v=kOX_vY6ir5M)
   <h3 align="center">Humanoid-Robot-Active-Vision-DDQN</h3>
 </div>
 
