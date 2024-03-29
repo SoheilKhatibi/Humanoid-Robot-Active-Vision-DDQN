@@ -4,6 +4,7 @@
 #include <armadillo>
 #include <math.h>
 #include <vector>
+#include <sys/time.h>
 
 // using namespace std;
 // using namespace arma;
